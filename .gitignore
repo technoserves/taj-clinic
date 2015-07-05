@@ -1,0 +1,25 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# compress files
+*.zip
+*.rar
+
+# 
+testing/
+info/
+in.php
+submit.php
